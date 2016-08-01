@@ -1,2 +1,4 @@
 playing with git to make new branches
 adding things to this file to make a conflicting merge
+writing something different
+
